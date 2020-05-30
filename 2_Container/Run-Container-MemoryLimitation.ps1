@@ -1,0 +1,1 @@
+docker container run --memory 256M --cpus 0.25 --memory-reservation 256M --cpu-shares 1024 hello-world
